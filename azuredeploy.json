@@ -274,7 +274,7 @@
               },
               "protocol": "Https",
               "sslCertificate": {
-                "id": "[concat(variables('applicationGatewayId'), '/sslCertificates/kantar')]"
+                "id": "[concat(variables('applicationGatewayId'), '/sslCertificates/sample-web')]"
               }
             }
           }
